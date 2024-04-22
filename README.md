@@ -1,7 +1,7 @@
-# QCPHYS-UCLA
-Quantum Computing in Physics Lecture at University of California, Los Angeles
+# Quantum Computing in Physics Lecture 
+University of California, Los Angeles, 2024
 
-# Tentative agenda
+## Time table
 Wednesday, April 24 [12 - 2 PM]   
 Lecture 1: Introduction to Quantum Computing Basics [Meijian Li]   
 Lecture 2: Time Evolution [Meijian Li]
