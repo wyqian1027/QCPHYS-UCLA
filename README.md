@@ -11,7 +11,7 @@ Lecture 3: [Variational Algorithms](https://github.com/wyqian1027/QCPHYS-UCLA/bl
 Qiskit Lab: time evolution and variational algorithm [Wenyang Qian]
 
 ## Lab instruction
-You can either run the Jupyter Lab for the lab [locally](https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lab_UCLA_blank_Apr22.ipynb) and use the Google Colab [online](https://colab.research.google.com/drive/1UOZMCh6Ug_MPlMB8jLM4ACck2wlUC5IC?usp=drive_link).   
+You can either run the Jupyter Lab for the lab [locally](https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lab_UCLA_blank.ipynb) or use the Google Colab [online](https://colab.research.google.com/drive/1UOZMCh6Ug_MPlMB8jLM4ACck2wlUC5IC?usp=drive_link).   
 * To run the lab locally, it is recommended that you create a virtual environment with [Conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and install relevant libraries. Once Conda is installed, run the following in the command line.
 ```bash
 conda create -n qcphys python=3.11
