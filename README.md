@@ -7,7 +7,7 @@ Lecture 1: Introduction to Quantum Computing Basics [Meijian Li]
 Lecture 2: Time Evolution [Meijian Li]
 
 Friday, April 26 [12 - 3 PM]   
-Lecture 3: Variational Algorithms [Wenyang Qian]   
+Lecture 3: [Variational Algorithms](https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lecture3_Variational_Algorithm.pdf) [Wenyang Qian]   
 Qiskit Lab: time evolution and variational algorithm [Wenyang Qian]
 
 ## Lab instruction
