@@ -20,3 +20,4 @@ pip install -r requirements.txt
 ```
 * To run the lab online with Colab, you just need run the beginning pip commands to install the relevant libraries. It should take 2-3 minutes.
 
+The lab solution will be posted after the event.
