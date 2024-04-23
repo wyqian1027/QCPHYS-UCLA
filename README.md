@@ -3,8 +3,8 @@ University of California, Los Angeles, 2024
 
 ## Time table
 Wednesday, April 24 [12 - 2 PM]   
-Lecture 1: Introduction to Quantum Computing Basics [Meijian Li]   
-Lecture 2: Time Evolution [Meijian Li]
+Lecture 1: [Introduction to Quantum Computing Basics](https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lecture1_QC_Basics.pdf) [Meijian Li]   
+Lecture 2: [Time Evolution](https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lecture_1_2_notes.pdf) [Meijian Li]
 
 Friday, April 26 [12 - 3 PM]   
 Lecture 3: [Variational Algorithms](https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lecture3_Variational_Algorithm.pdf) [Wenyang Qian]   
