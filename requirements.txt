@@ -1,0 +1,8 @@
+qiskit==0.44
+qiskit-aer==0.12
+qiskit_algorithms==0.2
+matplotlib
+pylatexenc
+numpy
+networkx
+scipy
