@@ -7,7 +7,7 @@ Lecture 1: [Introduction to Quantum Computing Basics](https://github.com/wyqian1
 Lecture 2: [Time Evolution](https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lecture_1_2_notes.pdf) [Meijian Li]
 
 Friday, April 26 [12 - 3 PM]   
-Lecture 3: [Variational Algorithms](https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lecture3_Variational_Algorithm.pdf) [Wenyang Qian]   
+Lecture 3: [Quantum Computing in Practice]([https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lecture3_Variational_Algorithm.pdf](https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lecture3_QC_in_practice.pdf)) [Wenyang Qian]   
 Qiskit Lab: time evolution and variational algorithm [Wenyang Qian]
 
 ## Lab instruction
@@ -20,4 +20,4 @@ pip install -r requirements.txt
 ```
 * To run the lab online with Colab, you just need run the beginning pip commands to install the relevant libraries. It should take 2-3 minutes.
 
-The lab solution will be posted after the event.
+The lab solution is posted [here](https://github.com/wyqian1027/QCPHYS-UCLA/blob/main/Lab_UCLA_sol.ipynb).
