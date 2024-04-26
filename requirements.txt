@@ -6,3 +6,5 @@ pylatexenc
 numpy
 networkx
 scipy
+ipywidgets
+jupyterlab
